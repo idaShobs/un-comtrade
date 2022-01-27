@@ -1,0 +1,33 @@
+{| class="wikitable" style="text-align: left;"
+|+ <!-- caption -->
+|-
+! align="right"|   Trade Value (US$) !! align="right"|   Gdp_per_capita !! align="right"|   Population
+|-
+| align="right"|            1        || align="right"|         0.450659 || align="right"|     0.698017
+|-
+| align="right"|            0.450659 || align="right"|         1        || align="right"|     0.543687
+|-
+| align="right"|            0.698017 || align="right"|         0.543687 || align="right"|     1
+|}
+{| class="wikitable" style="text-align: left;"
+|+ <!-- caption -->
+|-
+! align="right"|   Trade Value (US$) !! align="right"|   Gdp_per_capita !! align="right"|   Population
+|-
+| align="right"|            1        || align="right"|         0.206025 || align="right"|     0.430819
+|-
+| align="right"|            0.206025 || align="right"|         1        || align="right"|    -0.231851
+|-
+| align="right"|            0.430819 || align="right"|        -0.231851 || align="right"|     1
+|}
+{| class="wikitable" style="text-align: left;"
+|+ <!-- caption -->
+|-
+!                   !! align="right"|   Trade Value (US$) !! align="right"|   Gdp_per_capita !! align="right"|   Population
+|-
+| Trade Value (US$) || align="right"|            1        || align="right"|         0.206025 || align="right"|     0.430819
+|-
+| Gdp_per_capita    || align="right"|            0.206025 || align="right"|         1        || align="right"|    -0.231851
+|-
+| Population        || align="right"|            0.430819 || align="right"|        -0.231851 || align="right"|     1
+|}
